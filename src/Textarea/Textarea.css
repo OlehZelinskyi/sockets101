@@ -1,0 +1,17 @@
+.textarea {
+    padding: 1rem;
+    margin: 1rem;
+    width: 500px;
+    height: 300px;
+    border-radius: 0.5rem;
+    border: 1px solid #ccc;
+    resize: none;
+}
+
+.heading {
+    margin-left: 1rem
+}
+
+.highlight {
+    color: red;
+}
